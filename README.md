@@ -1,7 +1,5 @@
 ### Wassup guys, welcome 👋
 
-<!--
-**Ironipad64/ironipad64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - Sports are one of my favorite pass times. under here youll see my top 5 sports.
 
@@ -24,6 +22,3 @@ Top 5 Favorite Sports
 - Instagram: ismael_64k
 - 
 
-
-
--->
