@@ -1,16 +1,28 @@
-### Hi there 👋
+### Wassup guys, welcome 👋
 
 <!--
 **Ironipad64/ironipad64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Sports are one of my favorite pass times. under here youll see my top 5 sports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Top 5 Favorite Sports
+⚽️ Soccer
+⚾️ Baseball
+🏀 Basketball
+🎾 Tennis
+🏐 Volleyball
+
+- 🚘 Another one of my passions are learning about JDM cars. In the near future ill be owning my own toyota supra mk4.
+
+- 🔭 I’m currently working on Graduteing Lambda school.
+- 🌱 I’m currently learning more about frontend services and Algorithms
+
+
+
+- 📫 How to reach me: 
+- Email: Ironipad64@gmail.com
+- Instagram: ismael_64k
+
+
+
 -->
